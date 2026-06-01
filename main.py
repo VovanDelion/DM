@@ -1114,3 +1114,7 @@ if __name__ == "__main__":
 #
 # pyinstaller --noconfirm --windowed --onefile --name MebelOrgApp --icon resources\icon.png --add-data "resources;resources" --collect-all mysql.connector main.py
 #
+# git init
+# git add .
+# git commit -m ""
+# 
